@@ -1,35 +1,31 @@
 *{
-margin: 0;
-padding: 0;
-
+    margin: 0;
+    padding: 0;
 }
 
-
-.cabeçalho{
-    display: flex;
-    background-color: brown;
-    color:aqua;
+.cabecalho{
+    display:flex;
+    background:yellow;
+    color: aliceblue;
     justify-content: space-around;
+
+}
+.escola-imagem{
+    width: 25%;
+}
+.escola{
+    background-image: linear-gradient(RED,BLACK);
+    color: white;
+    display: flex;
+    justify-content: center;
     align-items: center;
-
-
+    padding: 24px 0;
 }
 
-
-.cabeçalho-lista_item{
-    display: inline-block;
+.escola-div-conteudo{
+    width: 35%;
+    
 }
 
-.cabeçalho-lista{
-     margin: 50px;
-     font-size: 30px;
-}
-
-
-
-
-
-
-
-
-
+.mercado-imagem
+    background-image: <img source image 1.png>
